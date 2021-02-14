@@ -1,2 +1,2 @@
 # DigitalVerto
-This repository's my second website. It consists of paragraphs with images.
+This is my Python Web App that works like gravity to clinch your attention!
